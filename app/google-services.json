@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065043167838",
+    "firebase_url": "https://simplenote-95.firebaseio.com",
+    "project_id": "simplenote-95",
+    "storage_bucket": "simplenote-95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065043167838:android:b582c3b970bda1f3b6c2cf",
+        "android_client_info": {
+          "package_name": "com.kaiapp.simplenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065043167838-b7o06f2umsfle10f1cuqu24fhc98m222.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjxrdWgxFs57-aG0ekGnglnrozgLy97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065043167838-b7o06f2umsfle10f1cuqu24fhc98m222.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
